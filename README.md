@@ -8,7 +8,7 @@ This repository holds the codes of practicals that I've executed and implemented
 ## 📌 Overview
 
 This repository includes:
-- Arduino sketches for various sensors and actuators
+- [Arduino](Overview.md) sketches for various sensors and actuators
 - ESP32 scripts for IoT and wireless applications
 - Projects featuring **DHT11 temperature & humidity sensor**, **piezoelectric sensors**, and **analog potentiometer-based LED control**
 
@@ -22,6 +22,8 @@ To use these codes:
    ```sh
    git clone https://github.com/prathamr1/IOTL_2025.git
 Open .ino files in the Arduino IDE or .cpp scripts in a compatible editor.
+
+4. [Basic Syntax and Funtions for Arduino CPP](Syntax_Funtions.md)
 
 ## 🛠️ Dependencies
 
