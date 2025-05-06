@@ -27,9 +27,7 @@ Open .ino files in the Arduino IDE or .cpp scripts in a compatible editor.
 Ensure you have the following libraries installed:
 
 DHT Sensor Library for temperature and humidity readings
-
 ESP32 WiFi for wireless communication
-
 Additional dependencies listed in each script's comments.
 
 ## 📖 Usage
@@ -39,8 +37,6 @@ Piezoelectric Sensor: Detects pressure changes, often used for impact detection 
 
 Analog Potentiometers & LED Control: Allows smooth adjustment of LED brightness using a rotary potentiometer.
 
-## 📜 License
-This repository is open-source under the MIT License. Feel free to use and contribute!
 
 ## 🤝 Contributing
 Have improvements or new features? Open a pull request or raise an issue.
