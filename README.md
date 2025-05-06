@@ -3,6 +3,7 @@
 # Arduino & ESP32 Code Repository
 
 Welcome to the Arduino & ESP32 code repository! This collection contains various scripts and examples to help you with microcontroller-based projects.
+This repository holds the codes of practicals that I've executed and implemented as a part of SPPU AI&DS Sem-IV IoT Laboratory course. 
 
 ## 📌 Overview
 
@@ -22,7 +23,7 @@ To use these codes:
    git clone https://github.com/prathamr1/IOTL_2025.git
 Open .ino files in the Arduino IDE or .cpp scripts in a compatible editor.
 
-🛠️ Dependencies
+## 🛠️ Dependencies
 Ensure you have the following libraries installed:
 
 DHT Sensor Library for temperature and humidity readings
@@ -31,15 +32,15 @@ ESP32 WiFi for wireless communication
 
 Additional dependencies listed in each script's comments.
 
-📖 Usage
+## 📖 Usage
 DHT11 Sensor: Used for measuring temperature and humidity, ideal for environment monitoring projects.
 
 Piezoelectric Sensor: Detects pressure changes, often used for impact detection and vibration sensing.
 
 Analog Potentiometers & LED Control: Allows smooth adjustment of LED brightness using a rotary potentiometer.
 
-📜 License
+## 📜 License
 This repository is open-source under the MIT License. Feel free to use and contribute!
 
-🤝 Contributing
+## 🤝 Contributing
 Have improvements or new features? Open a pull request or raise an issue.
