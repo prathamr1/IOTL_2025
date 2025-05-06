@@ -24,11 +24,15 @@ To use these codes:
 Open .ino files in the Arduino IDE or .cpp scripts in a compatible editor.
 
 ## 🛠️ Dependencies
+
 Ensure you have the following libraries installed:
 
 DHT Sensor Library for temperature and humidity readings
+
 ESP32 WiFi for wireless communication
+
 Additional dependencies listed in each script's comments.
+
 
 ## 📖 Usage
 DHT11 Sensor: Used for measuring temperature and humidity, ideal for environment monitoring projects.
