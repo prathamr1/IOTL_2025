@@ -15,7 +15,7 @@ This repository includes:
 ## ⚡ Getting Started
 
 To use these codes:
-1. Install the latest Arduino IDE: [Arduino](https://www.arduino.cc/en/software)
+1. Install the latest Arduino IDE [here](https://www.arduino.cc/en/software)
 2. Install required board definitions:
    - For ESP32: Follow the installation guide [here](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html)
 3. Clone this repository:
